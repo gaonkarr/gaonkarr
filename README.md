@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 😄 Pronouns: she/her
+- 📫 How to reach me: <a href="https://www.rohinigaonkar.com/">Website</a> | <a href="https://twitter.com/rohini_gaonkar">Twitter</a> | <a href="https://www.linkedin.com/in/rohinigaonkar/">LinkedIn</a> | <a href="https://www.instagram.com/techwithrohini/">Instagram</a> | <a href="https://www.youtube.com/c/rohinigaonkar"> YouTube </a> |  <a href="https://dev.to/rohini_gaonkar"> Dev.to </a>
+
+
 <!--
 **gaonkarr/gaonkarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
