@@ -5,6 +5,12 @@
 
  These days you may find me doing weekly YouTube series `This Week I Learned (TWIL)` where I share tech tools, tips and tricks.
  https://www.youtube.com/playlist?list=PLTuh5MoXKZTyfSVaZjIvDkaXkRGrL51ou
+ 
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+ 
+ [![IMAGE ALT TEXT HERE](https://www.canva.com/design/DAFcFgNQb0A/NFNphvMHrTgOLTUBe2-gUQ/view?utm_content=DAFcFgNQb0A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.youtube.com/playlist?list=PLTuh5MoXKZTyfSVaZjIvDkaXkRGrL51ou)
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTuh5MoXKZTyfSVaZjIvDkaXkRGrL51ou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!--
 **gaonkarr/gaonkarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
