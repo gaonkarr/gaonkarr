@@ -12,9 +12,13 @@ I am here to share my experiences on building architectures with best practices,
 I have over a decade of experience in IT industry, primarily focusing on Cloud Computing technologies. With AWS since January 2014, I have worked on multiple roles including being a Solutions Architect (SA) in ASEAN & India. As a SA I focused on the needs of cloud native customers. I have been leading conversations with businesses of all industries and sizes on innovation, as they deploy critical workloads onto the cloud. 
 I frequently speak at conferences, meetups and mentor aspiring women in tech.
 
-<img width="375" alt="Rohini-career-history-2022" src="https://user-images.githubusercontent.com/17308941/222579683-d9b16aa5-277b-4dbf-a03e-dbc27eb6520c.png">
+<img width="450" alt="Rohini-career-history-2022" src="https://user-images.githubusercontent.com/17308941/222579683-d9b16aa5-277b-4dbf-a03e-dbc27eb6520c.png">
 
- These days you may find me doing weekly YouTube series `This Week I Learned (TWIL)` where I share tech tools, tips and tricks.
+Check out all my talks and blogs on my website : https://www.rohinigaonkar.com/
+
+
+These days you may find me doing weekly YouTube series `This Week I Learned (TWIL)` where I share tech tools, tips and tricks.
+ 
  Playlist : https://www.youtube.com/playlist?list=PLTuh5MoXKZTyfSVaZjIvDkaXkRGrL51ou
  
  [<img width="375" alt="This Week I Learned (TWIL) Youtube playlist" src="https://user-images.githubusercontent.com/17308941/222579904-12c7f9a7-ccd8-4885-a20e-7997121a7ea5.png">](https://www.youtube.com/playlist?list=PLTuh5MoXKZTyfSVaZjIvDkaXkRGrL51ou)
