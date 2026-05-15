@@ -17,9 +17,7 @@ I frequently speak at conferences, meetups and mentor aspiring women in tech.
 Check out all my talks and blogs on my website : https://www.rohinigaonkar.com/
 
 
-These days you may find me doing weekly YouTube series `This Week I Learned (TWIL)` where I share tech tools, tips and tricks.
- 
- Playlist : https://www.youtube.com/playlist?list=PLTuh5MoXKZTyfSVaZjIvDkaXkRGrL51ou
+These days you may find me doing [YouTube series `Learning AI Out Loud`](https://www.youtube.com/playlist?list=PLTuh5MoXKZTyfSVaZjIvDkaXkRGrL51ou) where I share about Cloud & AI .
  
  [<img width="375" alt="This Week I Learned (TWIL) Youtube playlist" src="https://user-images.githubusercontent.com/17308941/222579904-12c7f9a7-ccd8-4885-a20e-7997121a7ea5.png">](https://www.youtube.com/playlist?list=PLTuh5MoXKZTyfSVaZjIvDkaXkRGrL51ou)
 
